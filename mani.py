@@ -4,7 +4,7 @@ from matplotlib.patches import FancyArrowPatch
 
 # === Definición del DFA ===
 
-
+#HOLA Wgit switch -c desarrollo
 
 
 #Actualizacion prueba wz
